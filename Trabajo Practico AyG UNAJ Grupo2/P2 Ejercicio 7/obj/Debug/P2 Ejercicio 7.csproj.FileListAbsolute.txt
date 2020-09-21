@@ -1,0 +1,6 @@
+C:\Users\Edgardo\Documents\SharpDevelop Projects\Trabajo Practico AyG UNAJ Grupo2\P2 Ejercicio 7\bin\Debug\P2 Ejercicio 7.exe.config
+C:\Users\Edgardo\Documents\SharpDevelop Projects\Trabajo Practico AyG UNAJ Grupo2\P2 Ejercicio 7\bin\Debug\P2 Ejercicio 7.exe
+C:\Users\Edgardo\Documents\SharpDevelop Projects\Trabajo Practico AyG UNAJ Grupo2\P2 Ejercicio 7\bin\Debug\P2 Ejercicio 7.pdb
+C:\Users\Edgardo\Documents\SharpDevelop Projects\Trabajo Practico AyG UNAJ Grupo2\P2 Ejercicio 7\obj\Debug\P2 Ejercicio 7.csprojResolveAssemblyReference.cache
+C:\Users\Edgardo\Documents\SharpDevelop Projects\Trabajo Practico AyG UNAJ Grupo2\P2 Ejercicio 7\obj\Debug\P2 Ejercicio 7.exe
+C:\Users\Edgardo\Documents\SharpDevelop Projects\Trabajo Practico AyG UNAJ Grupo2\P2 Ejercicio 7\obj\Debug\P2 Ejercicio 7.pdb
