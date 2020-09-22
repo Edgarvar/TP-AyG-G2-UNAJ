@@ -4,3 +4,9 @@ C:\Users\Edgardo\Documents\SharpDevelop Projects\Trabajo Practico AyG UNAJ Grupo
 C:\Users\Edgardo\Documents\SharpDevelop Projects\Trabajo Practico AyG UNAJ Grupo2\P3 Ejercicio 1\obj\Debug\P3 Ejercicio 1.csprojResolveAssemblyReference.cache
 C:\Users\Edgardo\Documents\SharpDevelop Projects\Trabajo Practico AyG UNAJ Grupo2\P3 Ejercicio 1\obj\Debug\P3 Ejercicio 1.exe
 C:\Users\Edgardo\Documents\SharpDevelop Projects\Trabajo Practico AyG UNAJ Grupo2\P3 Ejercicio 1\obj\Debug\P3 Ejercicio 1.pdb
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P3 Ejercicio 1\obj\Debug\P3 Ejercicio 1.csprojResolveAssemblyReference.cache
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P3 Ejercicio 1\obj\Debug\P3 Ejercicio 1.exe
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P3 Ejercicio 1\bin\Debug\P3 Ejercicio 1.exe.config
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P3 Ejercicio 1\bin\Debug\P3 Ejercicio 1.exe
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P3 Ejercicio 1\bin\Debug\P3 Ejercicio 1.pdb
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P3 Ejercicio 1\obj\Debug\P3 Ejercicio 1.pdb
