@@ -1,0 +1,6 @@
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P4 Ejercicio 4\bin\Debug\P4 Ejercicio 4.exe.config
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P4 Ejercicio 4\bin\Debug\P4 Ejercicio 4.exe
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P4 Ejercicio 4\bin\Debug\P4 Ejercicio 4.pdb
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P4 Ejercicio 4\obj\Debug\P4 Ejercicio 4.csprojResolveAssemblyReference.cache
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P4 Ejercicio 4\obj\Debug\P4 Ejercicio 4.exe
+C:\Users\Edgardo\Desktop\UNAJ\Algoritmo y programación\TP-AyG-G2-UNAJ\Trabajo Practico AyG UNAJ Grupo2\P4 Ejercicio 4\obj\Debug\P4 Ejercicio 4.pdb
